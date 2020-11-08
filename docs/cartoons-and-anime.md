@@ -44,6 +44,7 @@ sidebar_label: Anime
 - [KissCartoon.info](https://kisscartoon.info) - Another site for streaming cartoons with a huge catalog.
   - [KissCartoon.ac](https://kisscartoon.ac/) - Popular cartoon streaming site.
     - [Kisscartoon.love](https://www1.kisscartoon.love/) - Kisscartoon alternatives website _made by fans_. Watch HQ cartoons online both cartoon movies and cartoon series online for free.
+- [AnimeMovieSpot.com](https://AnimeMovieSpot.com) - Large database for watching dubbed anime.
 - [KissAnime.nz](http://kissanime.nz/) - One of the best places for Animes.
   - [Kissanime.ac](https://kissanime.ac/) - Large cartoon collection that uses RapidVideo.
 - [KissAsian](http://kissasian.ch/) - Yet another website for Animes.
